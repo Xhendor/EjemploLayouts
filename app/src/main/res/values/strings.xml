@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploLayouts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ejemplo_frame_layout">EjemploFrameLayout</string>
+    <string name="title_activity_ejemplo_linear_layout">EjemploLinearLayout</string>
+    <string name="title_activity_ejemplo_linear_layout2">EjemploLinearLayout2</string>
+    <string name="title_activity_ejemplo_table_layout">EjemploTableLayout</string>
+    <string name="title_activity_ejemplo_grid_layout">EjemploGridLayout</string>
+    <string name="title_activity_ejemplo_relative_layout">EjemploRelativeLayout</string>
+
+</resources>
